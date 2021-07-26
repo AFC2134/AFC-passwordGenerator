@@ -1,5 +1,7 @@
 # Password Generator Web Page. 
 Here you fill find a password generator, you may create a randomized password using upper and lower case letters, special characters, and numbers. 
+
+
 # Password Generator FINAL JAVASCRIPT CODE!
 //Assignment code
 // global variables
